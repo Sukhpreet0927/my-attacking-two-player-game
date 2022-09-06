@@ -10,4 +10,4 @@ The paddle on the left side of the screen is player one, they will use the W to 
 
 ## Screenshots
 
-![Title screen]
+![Title screen](https://raw.githubusercontent.com/Sukhpreet0927/my-attacking-two-player-game/main/Screenshots/startscreen.PNG)
