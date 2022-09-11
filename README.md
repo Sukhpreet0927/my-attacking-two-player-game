@@ -1,6 +1,7 @@
 # my-attacking-two-player-game
 
 ## Goal
+Heads up, the game functions when run on idle, with pycharm the game does not display.
 
 You and one other individual will compete to see who can shoot the other person the most. The goal is to be the first player to get to 10 points.
 
