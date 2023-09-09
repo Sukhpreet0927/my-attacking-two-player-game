@@ -1,4 +1,4 @@
-# my-attacking-two-player-game
+# Paddle Blasters
 
 ## Goal
 Heads up, the game functions when run on idle, with pycharm the game does not display.
